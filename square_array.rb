@@ -1,9 +1,9 @@
 def square_array(numbers)
-  squares = Array.new
+  sq = Array.new
   numbers.each do |element|
 
-  squares.push(element * element)
+  sq.push(element * element)
 
 end
-sqaures
+sq
 end
