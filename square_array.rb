@@ -1,5 +1,6 @@
 def square_array(numbers)
-  sq = []
+  index = 0
+  #sq = []
   numbers.each do |element|
 
   sq.push(element * element)
