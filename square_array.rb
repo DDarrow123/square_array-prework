@@ -4,6 +4,8 @@ def square_array(numbers)
 
   #sq.push(element * element)
 
+  element * element
+
 end
 #sq
 end
