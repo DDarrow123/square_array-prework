@@ -1,6 +1,6 @@
 def square_array(numbers)
 
-  numbers.each {|element| }
+  numbers.each {|element|}
 
   element = element*element
 
