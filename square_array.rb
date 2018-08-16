@@ -1,11 +1,9 @@
 def square_array(numbers)
-  #sq = []
+  sq = []
   numbers.collect! do |element|
 
-  #sq.push(element * element)
-
-  element * element
+  sq.push(element * element)
 
 end
-#sq
+sq
 end
