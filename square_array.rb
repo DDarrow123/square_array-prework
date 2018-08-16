@@ -1,6 +1,6 @@
 def square_array(numbers)
   sq = []
-  numbers.collect! do |element|
+  numbers.each do |element|
 
   sq.push(element * element)
 
